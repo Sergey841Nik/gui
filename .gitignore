@@ -1,4 +1,7 @@
 .idea/
 .vscode/
+gui/
+.pylintrc
 test.py
+trst_testa.py
 
