@@ -1,7 +1,6 @@
-.idea/
-.vscode/
-gui/
-.pylintrc
+gui
+.vscode
+.idea
 test.py
 trst_testa.py
-
+.pylintrc
